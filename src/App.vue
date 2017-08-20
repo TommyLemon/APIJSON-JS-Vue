@@ -78,25 +78,6 @@
             console.log(error);
           })
 
-
-//        request(url_get, {
-//          'Moment': {
-//            'userId': 93793
-//          },
-//          'User': {
-//            'id': 93793
-//          },
-//          '[]': {
-//            'count': 5,
-//            'Comment': {
-//              'momentId@': encodeURIComponent('Moment/id')
-//            },
-//            'User': {
-//              'id@': encodeURIComponent('/Comment/userId')
-//            }
-//          }
-//        })
-
       }
     }
   }
