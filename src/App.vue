@@ -33,7 +33,6 @@
       name: 'name'
     },
     commentList: {
-
     }
   }
 
